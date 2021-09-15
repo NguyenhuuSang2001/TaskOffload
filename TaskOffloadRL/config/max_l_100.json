@@ -1,0 +1,20 @@
+{
+	"n_helpers": 3,
+	"rc": 100.0,
+	"max_f": 6e8,
+	"max_c": 5e-3,
+	"max_l": 3e8,
+	"alpha1": 1.0,
+	"alpha2": 1.0,
+	"seed":1,
+			
+	"buffer_size": 10000,
+	"lr": 1e-3,
+	"gamma": 0.1,
+	"num_episodes": 3000,
+	"batch_size": 512,
+	"max_eps": 1.0,
+	"min_eps": 0.1,
+	"gpu_idx": "-1",
+	"log_dir": "../log"
+}
